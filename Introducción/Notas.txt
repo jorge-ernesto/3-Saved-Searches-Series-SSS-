@@ -1,0 +1,27 @@
+---- Notas ----
+Para crear "Busquedas guardadas" usar: Informes -> Busquedas guardadas -> Todas las busquedas guardadas -> Nuevo
+
+---- Clase01 - Introduction to Advanced Searches ----
+Busqueda guardada: JEL | Saved Searches Series | 01 Customer Search for Webinar
+
+---- Clase02 - Introduction to Formulas and Functions ----
+Busqueda guardada: JEL | Saved Searches Series | 02 Formulas and Functions Demo
+
+---- Clase03 - Introduction to Groups and Aggregate Functions ----
+Busqueda guardada: JEL | Saved Searches Series | 03a Group Functions
+Busqueda guardada: JEL | Saved Searches Series | 03b Group Functions Chart
+Busqueda guardada: JEL | Saved Searches Series | 03c Custom KPI
+
+---- Clase04 - Using HTML in Saved Searches ----
+Busqueda guardada: JEL | Saved Searches Series | 04a HTML Formatting Syntax
+Busqueda guardada: JEL | Saved Searches Series | 04b HTML Common Errors
+Busqueda guardada: JEL | Saved Searches Series | 04c HTML links
+Busqueda guardada: JEL | Saved Searches Series | 04d HTML for Images
+
+---- Clase05 - Saved Searches and Logic ----
+Busqueda guardada: JEL | Saved Searches Series | 05a Conditional Logic Formulas
+Busqueda guardada: JEL | Saved Searches Series | 05b Matrix
+Busqueda guardada: JEL | Saved Searches Series | 05c Conditional Criteria
+
+---- Clase06 - Using Transaction Saved Searches ----
+Busqueda guardada: JEL | Saved Searches Series | 06 Transaction Search Demo
